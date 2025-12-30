@@ -58,11 +58,12 @@ The AI is used **only** to:
 - Generate preparation checklists
 
 AI output is structured:
-```json
+json
 {
   "urgency": "Green / Yellow / Red",
   "department": "Medical Department",
   "checklist": []
+}
 
 4. Urgency Levels
 
@@ -153,4 +154,4 @@ More regional languages
 Live Demo
 
 👉 https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221CrrSiId1B6jGX5AGApzVZpFd2IQL8bRc%22%5D,%22action%22:%22open%22,%22userId%22:%22109348518598224613909%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
-}
+
