@@ -1,0 +1,9 @@
+{
+  "name": "Copy of CareNav AI - Healthcare Navigator",
+  "description": "A friendly, AI-powered healthcare assistant helping users navigate their next medical steps with safety-first rule-based logic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
